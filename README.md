@@ -1,4 +1,4 @@
-Notepad---Sass-Highlighter (dark theme)
+Notepad++ Sass-Highlighter (dark theme)
 =======================================
 
 Highlights Sass code in Notepad++ - yet rudimentary.
