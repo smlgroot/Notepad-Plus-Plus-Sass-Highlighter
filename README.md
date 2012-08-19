@@ -6,7 +6,7 @@ Highlights Sass code in Notepad++ - yet rudimentary.
 Based on  [Wouter Beugelsdijk's template](http://tech.wiedo.nl/sass-3-notepad-user-defined-syntax-highlighti).
 Dark (main) theme provided by Chris Kempson's [tomorrow_night](https://github.com/chriskempson/Tomorrow-Theme)
 
-![Screenshot](http://dl.dropbox.com/u/2667845/sass_highlighter/Greenshot_2012-08-16_22-56-00.png)
+![Screenshot](https://www.dropbox.com/s/2yaqju0okht2w0z/Greenshot_2012-08-19_11-19-05.png)
 
 Installation
 ------------
